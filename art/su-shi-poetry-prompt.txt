@@ -1,0 +1,11 @@
+Edit this text-only Chinese poetry background. Preserve the warm ivory paper, authentic brush-calligraphy aesthetic, generous empty left area, exact quotations, and subtle gray-green / warm-gray ink tones. Change the layout so EVERY quotation is STRICTLY VERTICAL: each Chinese character upright, stacked top to bottom, and multi-column quotations continue right to left. Absolutely NO horizontal lines of Chinese writing and no rotated-horizontal strings. All text columns should be straight vertical, but create a natural irregular arrangement by staggering their starting heights, varying font size, spacing between groups, lengths and ink density. Do not arrange in a uniform grid or equal-height columns. Arrange the eight quotations as dispersed poetic islands, mostly across middle and right, with paler groups near the left edge. Keep the lower right light and sparse for a map overlay. Wide 2:1 background, entirely text and subtle ivory paper texture, absolutely no landscapes, mountains, boats, flowers, portraits, seals or decorative pictures.
+Ensure all eight excerpts are rendered exactly once, correctly in simplified Chinese:
+"大江东去，浪淘尽，千古风流人物。"
+"一蓑烟雨任平生。"
+"但愿人长久，千里共婵娟。"
+"人生如逆旅，我亦是行人。"
+"欲把西湖比西子，淡妆浓抹总相宜。"
+"回首向来萧瑟处，归去，也无风雨也无晴。"
+"竹杖芒鞋轻胜马。"
+"人间有味是清欢。"
+Calligraphy must remain legible, accurate and elegantly understated. ALL eight groups must be vertically typeset top-to-bottom with varying staggered starting heights.
