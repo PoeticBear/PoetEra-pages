@@ -1,0 +1,87 @@
+{
+  "fonts": {
+    "ma-shan-zheng-ink.woff2": {
+      "bytes": 27404,
+      "sha256": "f4283c654c27e23b4be62a5b624e1e5957fd0c35cc602163fce572362e51a0b5",
+      "characterCount": 69,
+      "glyphCount": 78,
+      "characters": " 、。《》且东临亭人何初到千去口古叶吟听启啸壁声大奴好妨娇定尽山州徐念怀打林汀江波流浪淘渡物知石程穿竹笋绕美苏莫行觉赤轼连郭长雨风香鱼黄，",
+      "missingFromSource": "·",
+      "tables": [
+        "GlyphOrder",
+        "head",
+        "hhea",
+        "maxp",
+        "OS/2",
+        "hmtx",
+        "cmap",
+        "prep",
+        "loca",
+        "glyf",
+        "name",
+        "post",
+        "gasp",
+        "GPOS",
+        "GSUB"
+      ],
+      "features": {
+        "GSUB": [
+          "fwid"
+        ],
+        "GPOS": [
+          "kern"
+        ]
+      }
+    },
+    "noto-serif-sc-ink-punctuation.woff2": {
+      "bytes": 3004,
+      "sha256": "c72c8c6a20920504895ace956f86fcac484630b05514f7e5bb151a718ff5f8b4",
+      "characterCount": 11,
+      "glyphCount": 28,
+      "characters": "·、。《》︐︑︒︽︾，",
+      "missingFromSource": "",
+      "tables": [
+        "GlyphOrder",
+        "head",
+        "hhea",
+        "maxp",
+        "OS/2",
+        "hmtx",
+        "cmap",
+        "prep",
+        "loca",
+        "glyf",
+        "name",
+        "post",
+        "gasp",
+        "BASE",
+        "GPOS",
+        "GSUB",
+        "STAT",
+        "vhea",
+        "vmtx"
+      ],
+      "features": {
+        "GSUB": [
+          "aalt",
+          "dlig",
+          "fwid",
+          "hwid",
+          "locl",
+          "pwid",
+          "vert",
+          "vrt2"
+        ],
+        "GPOS": [
+          "chws",
+          "halt",
+          "kern",
+          "palt",
+          "vchw",
+          "vhal",
+          "vpal"
+        ]
+      }
+    }
+  }
+}

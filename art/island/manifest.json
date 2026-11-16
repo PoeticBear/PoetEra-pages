@@ -1,0 +1,66 @@
+{
+  "terrain": {
+    "width": 1600,
+    "height": 1080
+  },
+  "mountain": {
+    "width": 350,
+    "height": 330
+  },
+  "tree": {
+    "width": 190,
+    "height": 220
+  },
+  "bamboo": {
+    "width": 200,
+    "height": 220
+  },
+  "pavilion": {
+    "width": 280,
+    "height": 240
+  },
+  "house": {
+    "width": 250,
+    "height": 210
+  },
+  "dock": {
+    "width": 170,
+    "height": 120
+  },
+  "bridge": {
+    "width": 270,
+    "height": 265
+  },
+  "boat-0": {
+    "width": 180,
+    "height": 100
+  },
+  "boat-1": {
+    "width": 180,
+    "height": 100
+  },
+  "boat-2": {
+    "width": 180,
+    "height": 100
+  },
+  "boat-3": {
+    "width": 180,
+    "height": 100
+  },
+  "boat-4": {
+    "width": 180,
+    "height": 100
+  },
+  "boat-5": {
+    "width": 180,
+    "height": 100
+  },
+  "boat-6": {
+    "width": 180,
+    "height": 100
+  },
+  "boat-7": {
+    "width": 180,
+    "height": 100
+  }
+}

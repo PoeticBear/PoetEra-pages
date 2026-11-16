@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="240" viewBox="0 0 280 240"><ellipse cx="143" cy="218" rx="110" ry="18" fill="#355448" opacity=".16"/>
+  <polygon points="44,191 139,149 238,194 144,232" fill="#86917c" />
+  <polygon points="44,183 139,140 238,185 144,224" fill="#ede4c5" />
+  <path d="M77 180 V104 M204 180 V104 M141 205 V131 M139 153 V85" fill="none" stroke="#996147" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M77 162 l64 29 63 -28 M77 149 l64 29 63 -28" fill="none" stroke="#b58156" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="18,101 139,34 262,101 140,153" fill="#254f49" />
+  <path d="M18 101 Q72 93 100 51 L139 28 Q176 69 262 101 L140 145Z" fill="#456e5c" stroke="#d8c799" stroke-width="3"/>
+  <polygon points="18,101 140,145 139,28 100,51" fill="#608471" />
+  <path d="M25 101 L140 143 255 101 M139 29 V141 M56 87 l84 35 85 -34 M84 68 l56 30 56 -30" fill="none" stroke="#a1b091" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M128 33 q11 -18 23 0" fill="none" stroke="#d7cba0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+  <ellipse cx="141" cy="187" rx="22" ry="11" fill="#b2a27d"/><path d="M129 174 h24 v14 h-24Z" fill="#d8c99f"/></svg>

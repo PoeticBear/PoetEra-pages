@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-16",
+  "tool": "Built-in image_gen",
+  "assets": {
+    "landscape": {
+      "transparent": false,
+      "prompt": "Use case: stylized-concept. Asset type: full-bleed background painting for an interactive Chinese poetry landscape, wide landscape ratio 12:7 (2400 by 1400 world). Create an exquisite quiet monochrome Chinese ink wash handscroll, pale neutral rice-paper white, subtly visible stable fibers, no yellow tint. A broad river flows horizontally across the LOWER THIRD, with 60 percent empty water and mist. The shores extend beyond the left and right edges, no island base and no isometric toy scene. Layout tied to interactive coordinates: a tiny humble riverside ferry house on the left near 26% width and 57% height; a sparse bamboo bank at 46% width and 56% height; a tiny open pavilion on rocky bank at 81% width and 53% height. The navigable river stays clear below these points at 68–80% height. Far hills in upper half are very faint broken washes dissolving into white; middle banks darker dry brush textures, fine natural brushwork and restrained contrast. The lower middle is nearly white open river, small fine horizontal ink ripples. Scenic banks must connect offscreen instead of floating islands. The whole image should stand as an elegant contemporary literati ink painting. No boats, no people, no letters, no calligraphy, no seals, no UI, no typography. No photorealism, no 3D, no bright colors. Finest handpainted black and grey ink with subtle varied stroke edges. Main peaks upper right and far left, quiet central breathing space."
+    },
+    "mountains": {
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. Asset type: transparent background parallax layer for Chinese ink wash landscape game. Very wide panorama (roughly 3:1) of distant pale charcoal-grey Chinese mountains, mist-soft silhouettes, separate heights fading organically to completely transparent at the bottom. Very low contrast delicate ricepaper ink wash with dry brush edges. Mountains strongest at left and right, low subtle saddle at center. Transparent background with alpha, no paper rectangle. Soft translucency in mist areas, no hard crop edges at bottom. No river, buildings, plants, boats, people, words, seals or UI. Elegant quiet monochrome, not green or yellow, not vector, not 3D."
+    },
+    "foreground": {
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. Asset type: transparent foreground bamboo branch cutout for a Chinese ink wash river painting. A single naturally arching bamboo branch enters from the lower left corner and sweeps toward the upper right with a few fine diagonal stems and narrow pointed bamboo leaves; highly sparse asymmetrical composition, mostly open transparent space. Dark neutral charcoal and soft grey ink, traditional Chinese brush painted strokes with dry-brush gaps and translucent ink wash edges. Entire isolated branch and all leaf tips visible with generous transparent padding. Genuine transparent background, no paper rectangle, no cast shadow, no grey matte, no text, no seal, no people. High-quality quiet literati ink painting, no vector/cartoon/3D."
+    },
+    "boat": {
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. Asset type: isolated transparent sprite, traditional Chinese river skiff, broad side view slightly from above, horizontal pointing to the right. One very small seated scholar silhouette in pale robe, a simple low dark canopy behind him, slender wooden hull, one fine oar extending behind, delicate economical Chinese ink brush strokes. Monochrome charcoal and pale ink wash, designed to read at 70px wide in a large landscape. Entire boat silhouette visible centered with transparent margins, genuine transparent alpha background. No water rectangle, no river, no landscape, no text, no seal, no shadow. Neither toy-like nor photorealistic. Handmade dry brush natural edges."
+    }
+  },
+  "foregroundRefinement": "Preserve the bamboo branch and ink strokes; remove all broad grey/white haze, glow and matte. Empty space must be completely clear alpha transparency. Dark charcoal ink, natural feathered edges limited to 1–2 pixels. No shadow, fog or paper."
+}

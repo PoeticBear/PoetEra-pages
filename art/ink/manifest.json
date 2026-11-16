@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "world": {
+    "width": 2400,
+    "height": 1400
+  },
+  "bytes": 761878,
+  "assets": {
+    "landscape": {
+      "file": "landscape.webp",
+      "width": 1920,
+      "height": 1120,
+      "bytes": 181088,
+      "alpha": false
+    },
+    "mountains": {
+      "file": "mountains.webp",
+      "width": 1740,
+      "height": 580,
+      "bytes": 293246,
+      "alpha": true
+    },
+    "foreground": {
+      "file": "foreground.webp",
+      "width": 1080,
+      "height": 720,
+      "bytes": 95564,
+      "alpha": true
+    },
+    "boat": {
+      "file": "boat.webp",
+      "width": 512,
+      "height": 103,
+      "bytes": 23060,
+      "alpha": true
+    },
+    "preview": {
+      "file": "preview.webp",
+      "width": 1920,
+      "height": 1120,
+      "bytes": 168920,
+      "alpha": false
+    }
+  }
+}

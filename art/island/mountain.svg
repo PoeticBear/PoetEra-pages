@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="330" viewBox="0 0 350 330"><ellipse cx="180" cy="307" rx="145" ry="21" fill="#254e43" opacity=".12"/>
+  <polygon points="22,282 55,167 105,130 125,50 170,8 207,82 259,111 288,218 325,280 255,311 92,315" fill="#527f70" />
+  <polygon points="22,282 55,167 105,130 125,50 170,8 153,130 125,172 112,283" fill="#91b6a0" />
+  <polygon points="170,8 207,82 194,179 153,130" fill="#365d55" />
+  <polygon points="194,179 207,82 259,111 233,221 213,299 112,283 125,172 153,130" fill="#6e9a86" />
+  <polygon points="233,221 259,111 288,218 325,280 255,311 213,299" fill="#365f52" />
+  <polygon points="112,283 125,172 143,162 130,272 195,254 213,299 92,315 22,282" fill="#abc2a1" />
+  <path d="M156 41 l-18 96 -30 30 -9 93 M201 113 l-15 85 -26 38 M260 158 l-21 91" fill="none" stroke="#cbd2ad" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".55"/>
+  <path d="M78 258 l18 -51 M278 266 l-7 -49" fill="none" stroke="#294d45" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M90 190 q-30 -24 -59 0 q30 9 59 0 M160 145 q-35 -20 -67 7 q45 8 67 -7 M279 237 q-30 -24 -57 0 q32 14 57 0" fill="#284e42"/>
+  <path d="M51 215 l10 -25 M108 178 l17 -31 M250 264 l-10 -24" fill="none" stroke="#4b5940" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" /></svg>
