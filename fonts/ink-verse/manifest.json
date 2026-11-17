@@ -1,12 +1,12 @@
 {
   "fonts": {
     "ma-shan-zheng-ink.woff2": {
-      "bytes": 27404,
-      "sha256": "f4283c654c27e23b4be62a5b624e1e5957fd0c35cc602163fce572362e51a0b5",
-      "characterCount": 69,
-      "glyphCount": 78,
-      "characters": " 、。《》且东临亭人何初到千去口古叶吟听启啸壁声大奴好妨娇定尽山州徐念怀打林汀江波流浪淘渡物知石程穿竹笋绕美苏莫行觉赤轼连郭长雨风香鱼黄，",
-      "missingFromSource": "·",
+      "bytes": 160228,
+      "sha256": "7f9900e0ca185f3975e5d55821624cedaf86efbf1988ab167705f8336fbeda7f",
+      "characterCount": 390,
+      "glyphCount": 400,
+      "characters": " 、。《》一七三上下不且业东丝中临为久乔乘也书乱了事二云五亦亭亲人今任休会似但低何作例倾光入全公六共其冈冯冷几出初别到北十千半华南却卷压去又发口古只台右叶合后向吟听启吹员周咨唐啸嗟囊四回国圆在地垒城堆墨壁壕声处夕外多夜大天太夫头奇奴好如妆妨姿娇娟婵嫁子孙宇守官定宜客宫家密寒对寺射将尊小少尚尽山岸峭州左巾帽平年应开弄弓张归当影待徐微忙念忽怀怕思总恐恨悲情惊惭想愿我户扇打把报抹拍持挽擎故散料斜新方无日早时明春是晴暗更曹月有望未朱杖来杭杰林柳梦楼樯橹欢欲歌此比毫水汀江泛波流浓浪涛淘淡清渐渡游湖滟满潋火灭灯灰烟然照物牵狂狼猎玉珠琼瑟瑾生画白相看眠知石神离秋程空穿竹笋笑纶细绕绝绮缺置美羽翻老聊胆胜胸自舞船色节芒花苍苏英茫茶荒荷莫菇萧蒲蓑虎行补裘西见觉试诗谁调谈豪貂费赤起趁超跳转轻轼边迎还远连逐道遣遥遮郎郭酒酣酹醉醒里锦长问间阁阙阴随难雄雕雨雪霜露青鞋风飞食饮首香马骑高鬓鱼黄黑，？",
+      "missingFromSource": "·濛",
       "tables": [
         "GlyphOrder",
         "head",
@@ -34,11 +34,11 @@
       }
     },
     "noto-serif-sc-ink-punctuation.woff2": {
-      "bytes": 3004,
-      "sha256": "c72c8c6a20920504895ace956f86fcac484630b05514f7e5bb151a718ff5f8b4",
-      "characterCount": 11,
-      "glyphCount": 28,
-      "characters": "·、。《》︐︑︒︽︾，",
+      "bytes": 3892,
+      "sha256": "e8b3542ad50ac9e2fab1dcf6ec44b4407275ad86c756ff6d7e6fcc8cccba6cbe",
+      "characterCount": 20,
+      "glyphCount": 36,
+      "characters": "·、。《》濛︐︑︒︓︔︕︖︽︾！，：；？",
       "missingFromSource": "",
       "tables": [
         "GlyphOrder",

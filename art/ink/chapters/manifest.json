@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "date": "2026-11-16",
+  "generator": "built-in image_gen.imagegen",
+  "world": {
+    "width": 2400,
+    "height": 1400
+  },
+  "assets": {
+    "hangzhou": {
+      "file": "hangzhou.webp",
+      "width": 1920,
+      "height": 1120,
+      "bytes": 224828,
+      "alpha": false,
+      "sha256": "f917f610bd709f8d34e33766ab8a3857cdd55178a5158c81cdecb3669dcaf4e3"
+    },
+    "hangzhouPreview": {
+      "file": "hangzhou-preview.webp",
+      "width": 1920,
+      "height": 1120,
+      "bytes": 194272,
+      "alpha": false,
+      "sha256": "0b67bf0b4788f42e5f65e1456df8a9cef01aee8cb6e6699fbfd8bf45f2c777b5"
+    },
+    "mizhou": {
+      "file": "mizhou.webp",
+      "width": 1920,
+      "height": 1120,
+      "bytes": 262336,
+      "alpha": false,
+      "sha256": "f8aa96a65f5164e5cf144ff810a2d847df53cf01c6a7c9bf2dd2edfcc8f3d519"
+    },
+    "mizhouPreview": {
+      "file": "mizhou-preview.webp",
+      "width": 1920,
+      "height": 1120,
+      "bytes": 226038,
+      "alpha": false,
+      "sha256": "385ceae45d52b219f2cf75d35a603b6de3efed7799a486c0b87dadb6fa3b704d"
+    }
+  },
+  "bytes": 907474
+}
